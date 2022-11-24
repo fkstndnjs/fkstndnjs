@@ -4,6 +4,4 @@
 
 [![fkstndnjs's Stats](https://github-readme-stats.vercel.app/api?username=fkstndnjs&show_icons=true&theme=radical)](https://github.com/fkstndnjs?tab=repositories)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkstndnjs)](https://github.com/anuraghazra/github-readme-stats)
- 
 </div>
